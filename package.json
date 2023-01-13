@@ -14,7 +14,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@felte/validator-yup": "^1.0.10",
 		"@sveltejs/adapter-auto": "^1.0.0",
 		"autoprefixer": "^10.4.13",
 		"felte": "^1.2.6",
