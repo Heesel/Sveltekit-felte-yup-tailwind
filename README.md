@@ -1,5 +1,5 @@
 # What is this?
-This is a tutorial on how to validace a form using SvelteKit, Tailwindcss, felte and yup. The tutorial is available on [medium](https://medium.com/@Heesel/validate-your-form-using-sveltekit-tailwindcss-felte-and-yup-ddc11cd04717).
+This is a tutorial on how to validate a form using SvelteKit, Tailwindcss, felte and yup. The tutorial is available on [medium](https://medium.com/@Heesel/validate-your-form-using-sveltekit-tailwindcss-felte-and-yup-ddc11cd04717).
 
 
 # How to run this project
